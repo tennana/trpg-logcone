@@ -14,7 +14,7 @@
     "@tauri-apps/api": "^1.5.3",
     "@zip.js/zip.js": "^2.7.32",
     "docxtemplater": "^3.42.7",
-    "eslint-plugin-svelte": "^2.35.1",
+    "eslint-plugin-svelte": "^3.23.1",
     "papaparse": "^5.4.1",
     "pizzip": "^3.1.4",
     "simple-icons": "^10.4.0",
